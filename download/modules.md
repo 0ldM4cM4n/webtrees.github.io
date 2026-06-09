@@ -29,15 +29,15 @@ Modules are installed by copying them to the folder `modules_v3`.
 
 ----------
 
-### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
+### Admin Announcement Billboard - by 0ldM4cM4n - 2.2 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
 
-This free module displays an admin-controlled announcement billboard on each member's personal page when they log in. Only the administrator can configure and control the billboard settings — regular members can see the billboard but cannot modify it in any way. It is ideal for private family tree sites where the administrator needs to communicate important notices — such as privacy reminders, site updates, or family news — directly to all members.
+This module displays an admin-controlled announcement billboard on each member's personal page when they log in. Only the administrator can configure and control the billboard settings — regular members can see the billboard but cannot modify it in any way. It is ideal for private family tree sites where the administrator needs to communicate important notices — such as privacy reminders, site updates, or family news — directly to all members.
 
 ----------
 
-### All Ages Export Engine - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/all-ages-export-engine)
+### All Ages Export Engine - by 0ldM4cM4n - 2.2 - [website](https://github.com/0ldM4cM4n/all-ages-export-engine)
 
-This free module is a clean, simple admin utility that exports a concise list of all individuals in a family tree, displaying four fields only: Last Name, First Name, Birth Date, and Death Date.
+This module is a clean, simple admin utility that exports a concise list of all individuals in a family tree, displaying four fields only: Last Name, First Name, Birth Date, and Death Date.
 
 ----------
 
@@ -114,7 +114,7 @@ It also supports customization of translations via .php or .csv files.
 
 ---------
 
-### Dead Record Detective - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/dead-record-detective)
+### Dead Record Detective - by 0ldM4cM4n - 2.2 - [website](https://github.com/0ldM4cM4n/dead-record-detective)
 
 Based on the options set by the admin, this tool scans a Webtrees family tree and detects individuals with missing, unknown, or placeholder data in key fields — specifically first and last names, and birth and death dates. It doesn't modify, delete, or alter any family tree data. All changes must be made manually by the admin. Results can be exported as a text file or spreadsheet, or viewed inline inside your Webtrees site.
 
@@ -602,12 +602,6 @@ The default installation contains default webtrees watermark image, some sample 
 
 ----------
 
-### Webtrees User Page Title - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
+### Webtrees User Page Title - by 0ldM4cM4n - 2.2 - [website](https://github.com/0ldM4cM4n/webtrees-user-page-title)
 
-This free Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
-
-----------
-
-### Admin Announcement Billboard - by 0ldM4cM4n - 1.0.0 - [website](https://github.com/0ldM4cM4n/admin-announcement-billboard)
-
-This free Webtrees module displays an admin-controlled announcement billboard on each member's personal page. Only the administrator can configure and control the billboard settings. It is ideal for private family tree sites where the administrator needs to communicate important notices directly to all members.
+This Webtrees module personalizes the user page title by replacing the default generic "My page" heading with the actual name of the logged-in user. It offers two options for single-language English sites, and two options for multi-lingual sites.
